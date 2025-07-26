@@ -1,2 +1,2 @@
 # demo
-This if my first repository.
+This if my first get repository.
